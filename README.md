@@ -67,7 +67,7 @@ cam101-week5-mini-project/
 
 This project was completed as part of the CAM101 curriculum.
 
-- **Author**: Onyeka Muoka
+- **Author**: **ONYEKA MUOKA**
 
 
 Feel free to fork and extend for your own anomaly detection projects.
