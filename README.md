@@ -24,7 +24,7 @@ cam101-week5-mini-project/
 │   └── visualization.py
 ├── assets/
 |    └── example_plot.png              # Sample plot used in documentation
-├──Report.pdf
+└── Peport.pdf
 ```
 
 ---
