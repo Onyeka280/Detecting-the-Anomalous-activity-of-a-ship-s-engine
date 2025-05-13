@@ -22,8 +22,7 @@ cam101-week5-mini-project/
 │   ├── data_cleaning.py
 │   ├── modeling.py
 │   └── visualization.py
-└── assets/
-    └── example_plot.png              # Sample plot used in documentation
+└── Report.pdf
 ```
 
 ---
@@ -61,25 +60,6 @@ cam101-week5-mini-project/
 
 4. **Explore the Markdown Docs (Optional)**
    Navigate the `docs/` folder for a modular breakdown of the project pipeline.
-
----
-
-## 📎 Dataset
-
-- The dataset used (`engine.csv`) contains real-world sensor readings from a ship's engine.
-- Includes features such as:
-  - Engine RPM
-  - Lubricant Oil Pressure
-  - Fuel and Coolant Pressure
-  - Oil and Coolant Temperature
-
----
-
-## 📊 Sample Visualization
-
-![example_plot](assets/example_plot.png)
-
-This KDE plot visualizes the distribution of core engine features, useful for spotting anomalies and skew.
 
 ---
 
