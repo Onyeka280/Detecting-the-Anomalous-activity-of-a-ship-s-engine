@@ -22,7 +22,9 @@ cam101-week5-mini-project/
 │   ├── data_cleaning.py
 │   ├── modeling.py
 │   └── visualization.py
-└── Report.pdf
+├── assets/
+|    └── example_plot.png              # Sample plot used in documentation
+├──Report.pdf
 ```
 
 ---
@@ -63,11 +65,30 @@ cam101-week5-mini-project/
 
 ---
 
+## 📎 Dataset
+
+- The dataset used (`engine.csv`) contains real-world sensor readings from a ship's engine.
+- Includes features such as:
+  - Engine RPM
+  - Lubricant Oil Pressure
+  - Fuel and Coolant Pressure
+  - Oil and Coolant Temperature
+
+---
+
+## 📊 Sample Visualization
+
+![example_plot](assets/example_plot.png)
+
+This KDE plot visualizes the distribution of core engine features, useful for spotting anomalies and skew.
+
+---
+
 ## 🤝 Contributions
 
 This project was completed as part of the CAM101 curriculum.
 
-- **Author**: **ONYEKA MUOKA**
+- **Author**: ***Onyeka Muoka***
 
 
 Feel free to fork and extend for your own anomaly detection projects.
